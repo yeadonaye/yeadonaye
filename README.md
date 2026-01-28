@@ -1,8 +1,9 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+👋,+moi+c'est+Yeadonaye+Ashenafi;Bienvenue+dans+mon+GitHub!;Hello+👋,+my+name+is+Yeadonaye+Ashenafi;Welcome+to+my+GitHub!;)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+%F0%9F%91%8B,+moi+c'est+Yeadonaye+Ashenafi;Bienvenue+dans+mon+GitHub!;Hello+%F0%9F%91%8B,+my+name+is+Yeadonaye+Ashenafi;Welcome+to+my+GitHub!)
 
 </p>
+
 
 
 ## 🚀 À propos de moi
@@ -14,14 +15,15 @@
 ### 🛠️ Mes Projets Récents
 Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
-* **[Projet 1]** : *Brève description du projet (ex: Application de gestion en Java).*
-    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
-* **[Projet 2]** : *Brève description du projet (ex: Site web dynamique en PHP/SQL).*
-    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
-* **[Projet 3]** : *Brève description du projet (ex: Algorithme d'optimisation en C).*
-    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
+* **[Application de gestion immobilière]** : *Application de gestion immobilière développé en Java Swing.*
+    * 🔗 [Visiter le dépôts Git](https://github.com/yeadonaye/gestionImmobiliere)
+* **[Proxy FTP]** : *Un proxy FTP écrit en C qui a pour rôle d'intercepter les connexions FTP en mode actif et de les convertir automatiquement en mode passif côté serveur.*
+    * 🔗 [Visiter le dépôts Git](https://github.com/yeadonaye/proxyFTP)
+* **[Site de gestion d'équipe de Foot]** : *Site web de gestion d'une équipe de football développée en PHP.*
+    * 🔗 [Lien vers le dépôt GitHub](https://github.com/yeadonaye/SENTAYEHU_HISABU_PHP)
 
-> **Curieux d'en voir plus ?** Je vous invite à jeter un coup d'œil à mes projets pour découvrir mon code et ma manière de travailler !
+
+> **Curieux d'en voir plus ?** Je vous invite à jeter un coup d'œil à mes [projets](https://github.com/yeadonaye?tab=repositories) pour découvrir mon code et ma manière de travailler !
 
 ---
 
@@ -54,7 +56,6 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
 ### 🗄️ Bases de données
