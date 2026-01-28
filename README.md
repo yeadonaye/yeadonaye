@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=28&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=Bonjour,+je+m'appelle+Yeadonaye+Ashenafi+SENTAYEHU;Étudiant+en+informatique+%7C+Développeur+logiciel;C+%7C+Java+%7C+Web+%7C+Systèmes" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+👋,+moi+c'est+Yeadonaye+Ashenafi+SENTAYEHU;Étudiant+en+informatique+🎓;)
+
 </p>
+
 
 ---
 
