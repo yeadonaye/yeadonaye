@@ -1,21 +1,98 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?size=28&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=Bonjour,+je+m'appelle+Yeadonaye+Ashenafi+SENTAYEHU;Étudiant+en+informatique+%7C+Développeur+logiciel;C+%7C+Java+%7C+Web+%7C+Systèmes" />
+</p>
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+## 👋 Bienvenue sur mon profil GitHub !
 
+Je m’appelle **Yeadonaye Ashenafi SENTAYEHU**,  
+🎓 **Étudiant en informatique**  
+💻 Passionné par le **développement logiciel**, l’algorithmique et les systèmes  
 
-<!--
-**yeadonaye/yeadonaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sur ce profil, je partage mes **projets académiques et personnels**, réalisés seul ou en équipe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+- 🎓 Étudiant en **informatique**
+- 💡 Intéressé par :
+  - Programmation orientée objet
+  - Algorithmique & structures de données
+  - Développement logiciel et systèmes
+- 🤝 Travail en **équipe** sur des projets en **C, Java et Web**
+- 🌱 Actuellement en apprentissage :
+  - Génie logiciel
+  - Git & collaboration
+  - Architecture logicielle
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeadonaye&show_icons=true&theme=radical&rank_icon=github" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeadonaye&layout=compact&theme=radical" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeadonaye&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🛠️ Technologies & Outils
+
+### 💻 Langages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### 🗄️ Bases de données
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
+</p>
+
+### ⚙️ Outils & Environnements
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yeadonaye/yeadonaye/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+- ✉️ **Email** : yeadonayeashenafi@gmail.com  
+- 🌍 **Site web** : [yeadonayeashenafi.vercel.app](https://yeadonayeashenafi.vercel.app)  
+- 💼 **LinkedIn** : [linkedin.com/in/yeadonaye](https://www.linkedin.com/in/yeadonaye/)  
+- 🧑‍💻 **GitHub** : [github.com/yeadonaye](https://www.github.com/yeadonaye)
+
+---
+
+⭐ Merci de visiter mon profil !
