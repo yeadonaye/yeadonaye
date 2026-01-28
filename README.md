@@ -1,34 +1,27 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+👋,+moi+c'est+Yeadonaye+Ashenafi+SENTAYEHU;Étudiant+en+informatique+🎓;)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+👋,+moi+c'est+Yeadonaye+Ashenafi;Bienvenue+dans+mon+GitHub!;Hello+👋,+my+name+is+Yeadonaye+Ashenafi;Welcome+to+my+GitHub!;)
 
 </p>
 
 
----
-
-## 👋 Bienvenue sur mon profil GitHub !
-
-Je m’appelle **Yeadonaye Ashenafi SENTAYEHU**,  
-🎓 **Étudiant en informatique**  
-💻 Passionné par le **développement logiciel**, l’algorithmique et les systèmes  
-
-Sur ce profil, je partage mes **projets académiques et personnels**, réalisés seul ou en équipe.
-
----
-
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant en **informatique**
-- 💡 Intéressé par :
-  - Programmation orientée objet
-  - Algorithmique & structures de données
-  - Développement logiciel et systèmes
-- 🤝 Travail en **équipe** sur des projets en **C, Java et Web**
-- 🌱 Actuellement en apprentissage :
-  - Génie logiciel
-  - Git & collaboration
-  - Architecture logicielle
+**Hello ! Je m'appelle Yeadonaye.** Actuellement étudiant en **Informatique à l'IUT de Toulouse**, je suis un véritable passionné de nouvelles technologies. J'aime relever des défis techniques et concevoir des solutions innovantes, que ce soit en **autonomie** ou au sein d'une **équipe**.
+
+---
+
+### 🛠️ Mes Projets Récents
+Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
+
+* **[Projet 1]** : *Brève description du projet (ex: Application de gestion en Java).*
+    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
+* **[Projet 2]** : *Brève description du projet (ex: Site web dynamique en PHP/SQL).*
+    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
+* **[Projet 3]** : *Brève description du projet (ex: Algorithme d'optimisation en C).*
+    * 🔗 [Lien vers le dépôt GitHub](https://github.com/ton-lien-ici)
+
+> **Curieux d'en voir plus ?** Je vous invite à jeter un coup d'œil à mes projets pour découvrir mon code et ma manière de travailler !
 
 ---
 
@@ -45,6 +38,14 @@ Sur ce profil, je partage mes **projets académiques et personnels**, réalisés
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yeadonaye/yeadonaye/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🛠️ Technologies & Outils
 
 ### 💻 Langages
@@ -56,16 +57,9 @@ Sur ce profil, je partage mes **projets académiques et personnels**, réalisés
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### 🌐 Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
 ### 🗄️ Bases de données
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
 </p>
@@ -74,27 +68,18 @@ Sur ce profil, je partage mes **projets académiques et personnels**, réalisés
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yeadonaye/yeadonaye/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📫 Me contacter
 
-- ✉️ **Email** : yeadonayeashenafi@gmail.com  
-- 🌍 **Site web** : [yeadonayeashenafi.vercel.app](https://yeadonayeashenafi.vercel.app)  
-- 💼 **LinkedIn** : [linkedin.com/in/yeadonaye](https://www.linkedin.com/in/yeadonaye/)  
-- 🧑‍💻 **GitHub** : [github.com/yeadonaye](https://www.github.com/yeadonaye)
+- ✉️ [yeadonayeashenafi@gmail.com](mailto:yeadonayeashenafi@gmail.com)  
+- 🌍 [Portfolio](https://yeadonayeashenafi.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeadonaye/)  
+- 🧑‍💻 [GitHub](https://www.github.com/yeadonaye)
 
 ---
 
