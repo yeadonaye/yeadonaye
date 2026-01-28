@@ -16,11 +16,11 @@
 Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 * **[Application de gestion immobilière]** : *Application de gestion immobilière développé en Java Swing.*
-    * 🔗 [Visiter le dépôts Git](https://github.com/yeadonaye/gestionImmobiliere)
+    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/gestionImmobiliere)
 * **[Proxy FTP]** : *Un proxy FTP écrit en C qui a pour rôle d'intercepter les connexions FTP en mode actif et de les convertir automatiquement en mode passif côté serveur.*
-    * 🔗 [Visiter le dépôts Git](https://github.com/yeadonaye/proxyFTP)
+    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/proxyFTP)
 * **[Site de gestion d'équipe de Foot]** : *Site web de gestion d'une équipe de football développée en PHP.*
-    * 🔗 [Lien vers le dépôt GitHub](https://github.com/yeadonaye/SENTAYEHU_HISABU_PHP)
+    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/SENTAYEHU_HISABU_PHP)
 
 
 > **Curieux d'en voir plus ?** Je vous invite à jeter un coup d'œil à mes [projets](https://github.com/yeadonaye?tab=repositories) pour découvrir mon code et ma manière de travailler !
