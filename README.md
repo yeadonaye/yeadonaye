@@ -30,12 +30,20 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeadonaye&show_icons=true&theme=radical&rank_icon=github" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeadonaye&layout=compact&theme=radical" height="190"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yeadonaye&show_icons=true&theme=radical&rank_icon=github"
+    height="190"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeadonaye&layout=compact&theme=radical"
+    height="190"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yeadonaye&theme=radical&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=yeadonaye&theme=radical&hide_border=true"
+  />
 </p>
 
 ---
