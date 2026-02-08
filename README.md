@@ -6,13 +6,13 @@
 
 
 
-## 🚀 À propos de moi
+## À propos de moi
 
 **Hello ! Je m'appelle Yeadonaye.** Actuellement étudiant en **Informatique à l'IUT de Toulouse**, je suis un véritable passionné de nouvelles technologies. J'aime relever des défis techniques et concevoir des solutions innovantes, que ce soit en **autonomie** ou au sein d'une **équipe**.
 
 ---
 
-### 🛠️ Mes Projets Récents
+### Mes Projets Récents
 Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 * **[Application de gestion immobilière]** : *Application de gestion immobilière développé en Java Swing.*
@@ -27,7 +27,7 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img
@@ -48,7 +48,7 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yeadonaye/yeadonaye/output/github-contribution-grid-snake-dark.svg" />
@@ -56,9 +56,9 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 ---
 
-## 🛠️ Technologies & Outils
+## Technologies & Outils
 
-### 💻 Langages
+### Langages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
@@ -66,14 +66,14 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
 </p>
 
-### 🗄️ Bases de données
+### Bases de données
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
-### ⚙️ Outils & Environnements
+### Outils & Environnements
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
@@ -83,7 +83,7 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - ✉️ [yeadonayeashenafi@gmail.com](mailto:yeadonayeashenafi@gmail.com)  
 - 🌍 [Portfolio](https://yeadonayeashenafi.vercel.app)  
@@ -92,4 +92,4 @@ Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
 ---
 
-⭐ Merci de visiter mon profil !
+Merci de visiter mon profil !
