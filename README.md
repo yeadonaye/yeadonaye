@@ -1,12 +1,6 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+%F0%9F%91%8B,+moi+c'est+Yeadonaye+Ashenafi;Bienvenue+dans+mon+GitHub!;Hello+%F0%9F%91%8B,+my+name+is+Yeadonaye+Ashenafi;Welcome+to+my+GitHub!)
-
-</p>
-
-
-
-## À propos de moi
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Salut+%F0%9F%91%8B,+moi+c'est+Yeadonaye+Ashenafi;Bienvenue+dans+mon+Goi
 
 **Hello ! Je m'appelle Yeadonaye.** Actuellement étudiant en **Informatique à l'IUT de Toulouse**, je suis un véritable passionné de nouvelles technologies. J'aime relever des défis techniques et concevoir des solutions innovantes, que ce soit en **autonomie** ou au sein d'une **équipe**.
 
