@@ -12,18 +12,40 @@
 
 ---
 
-### Mes Projets Récents
-Voici un aperçu des travaux que j'ai réalisés jusqu'à présent :
 
-* **[Application de gestion immobilière]** : *Application de gestion immobilière développé en Java Swing.*
-    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/gestionImmobiliere)
-* **[Proxy FTP]** : *Un proxy FTP écrit en C qui a pour rôle d'intercepter les connexions FTP en mode actif et de les convertir automatiquement en mode passif côté serveur.*
-    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/proxyFTP)
-* **[Site de gestion d'équipe de Foot]** : *Site web de gestion d'une équipe de football développée en PHP.*
-    * 🔗 [Visiter le dépôt Git](https://github.com/yeadonaye/SENTAYEHU_HISABU_PHP)
+## 🚀 Mes Projets Récents
 
+<div align="center">
 
-> **Curieux d'en voir plus ?** Je vous invite à jeter un coup d'œil à mes [projets](https://github.com/yeadonaye?tab=repositories) pour découvrir mon code et ma manière de travailler !
+<a href="https://github.com/yeadonaye/gestionImmobiliere">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yeadonaye&repo=gestionImmobiliere&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/yeadonaye/projetFTP">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yeadonaye&repo=projetFTP&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/yeadonaye/SENTAYEHU_HISABU_PHP">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yeadonaye&repo=SENTAYEHU_HISABU_PHP&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <b>Curieux d'en voir plus ?</b>
+
+<a href="https://github.com/yeadonaye?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorer_mes_projets-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
