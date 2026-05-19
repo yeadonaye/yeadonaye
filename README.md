@@ -10,6 +10,8 @@
 
 **Hello ! Je m'appelle Yeadonaye.** Actuellement étudiant en **Informatique à l'IUT de Toulouse**, je suis un véritable passionné de nouvelles technologies. J'aime relever des défis techniques et concevoir des solutions innovantes, que ce soit en **autonomie** ou au sein d'une **équipe**.
 
+Cliquez <a href="https://yeadonayeashenafi.vercel.app">ici</a> pour en savoir plus sur moi ;)
+
 ---
 
 
