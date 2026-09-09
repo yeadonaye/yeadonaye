@@ -23,6 +23,8 @@ Cliquez <a href="https://yeadonayeashenafi.vercel.app">ici</a> pour en savoir pl
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yeadonaye&repo=gestionImmobiliere&theme=tokyonight&hide_border=true" />
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeadonaye&repo=gestionImmobiliere&theme=tokyonight&hide_border=true" />
+
 <br><br>
 
 <a href="https://github.com/yeadonaye/projetFTP">
