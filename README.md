@@ -14,18 +14,6 @@ Cliquez <a href="https://yeadonaye.dev">ici</a> pour en savoir plus sur moi ;)
 
 ---
 
-<div align="center">
-
-✨ <b>Curieux d'en voir plus ?</b>
-
-<a href="https://github.com/yeadonaye?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorer_mes_projets-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 ## Statistiques GitHub
 
 <p align="center">
@@ -116,111 +104,25 @@ Cliquez <a href="https://yeadonaye.dev">ici</a> pour en savoir plus sur moi ;)
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="45"/>
 </p>
 
-  
 ---
-
-## Me contacter
-
-- ✉️ [yeadonayeashenafi@gmail.com](mailto:yeadonayeashenafi@gmail.com)  
-- 🌍 [Portfolio](https://yeadonaye.dev)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeadonaye/)
-
----
-
-Merci de visiter mon profil !
-
-## 🚀 Projets
 
 <div align="center">
 
-<table>
-<tr>
+### 📬 Discutons ensemble
 
-<td width="50%" valign="top">
-
-### 🏠 Gestion Immobilière
-<sub>**Application web** · Gestion de biens immobiliers</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<sub>Un projet, une idée, une opportunité de stage ou d'alternance ? N'hésite pas à me contacter.</sub>
 
 <br/><br/>
 
-<a href="https://github.com/yeadonaye/gestionImmobiliere">
-  <img src="https://img.shields.io/badge/Voir_le_projet-777BB4?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet"/>
+<a href="https://www.linkedin.com/in/yeadonaye">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 MAESTRO
-<sub>**Orchestrateur multi-agents** · Évaluation automatique de réponses étudiantes et génération de feedback personnalisé</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral"/>
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
-
-<br/><br/>
-
-<a href="https://github.com/yeadonaye/NOM_DU_REPO">
-  <img src="https://img.shields.io/badge/Voir_le_projet-FF7000?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet"/>
+<a href="mailto:yeadonayeashenafi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 EvalBuddy
-<sub>**Outil de recherche** · Impact de l'IA sur la qualité et la vitesse de correction des réponses étudiantes</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-
-<br/><br/>
-
-<a href="https://github.com/yeadonaye/NOM_DU_REPO">
-  <img src="https://img.shields.io/badge/Voir_le_projet-00DC82?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet"/>
+<a href="https://yeadonaye.dev">
+  <img src="https://img.shields.io/badge/Portfolio-00DC82?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 KonsolidaTion
-<sub>**Plateforme d'apprentissage** · Assistée par l'IA, avec progression et récompenses</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-
-<br/><br/>
-
-<a href="https://github.com/yeadonaye/NOM_DU_REPO">
-  <img src="https://img.shields.io/badge/Voir_le_projet-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 
 </div>
