@@ -110,9 +110,8 @@ Cliquez <a href="https://yeadonayeashenafi.vercel.app">ici</a> pour en savoir pl
 ## Me contacter
 
 - ✉️ [yeadonayeashenafi@gmail.com](mailto:yeadonayeashenafi@gmail.com)  
-- 🌍 [Portfolio](https://yeadonayeashenafi.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeadonaye/)  
-- 🧑‍💻 [GitHub](https://www.github.com/yeadonaye)
+- 🌍 [Portfolio](https://yeadonaye.dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeadonaye/)
 
 ---
 
